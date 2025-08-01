@@ -1,0 +1,29 @@
+ssl:
+  accessKeyId: LTAOpkuw3soi29r09hrt09uy
+  accessKeySecret: 3LtSDFKweroi89we7w67
+  regionId: cn-hangzhou
+  package:
+    phone: 139000000001
+    email: 139000000001@163.com
+    username: 无情
+sslUpload:
+  accessKeyId: LAEO0sd18PkSd79h1lDop9
+  accessKeySecret: lDIETpF0I4WmR89sE7koU8hPq
+  regionId: cn-hangzhou
+slb:
+  accessKeyId: LAEO0sd18PkSd79h1lDop9
+  accessKeySecret: lDIETpF0I4WmR89sE7koU8hPq
+  regionId: cn-hangzhou
+  slbs:
+    - "lb-bp11h0jpm6hpssljapg9n"
+oss:
+  accessKeyId: LAEO0sd18PkSd79h1lDop9
+  accessKeySecret: lDIETpF0I4WmR89sE7koU8hPq
+  regionId: cn-hangzhou
+  bucket:
+    - "admin-test"
+cdn:
+  accessKeyId: LAEO0sd18PkSd79h1lDop9
+  accessKeySecret: lDIETpF0I4WmR89sE7koU8hPq
+  regionId: cn-hangzhou
+
