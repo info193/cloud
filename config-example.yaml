@@ -15,7 +15,7 @@ slb:
   accessKeySecret: lDIETpF0I4WmR89sE7koU8hPq
   regionId: cn-hangzhou
   slbs:
-    - "lb-bp11h0jpm6hpssljapg9n"
+    - "lb-bp19k0jDm6hpdPljfp01n"
 oss:
   accessKeyId: LAEO0sd18PkSd79h1lDop9
   accessKeySecret: lDIETpF0I4WmR89sE7koU8hPq
